@@ -1,5 +1,5 @@
 # Regex-Tutorial
-- [Link to gist] (https://gist.github.com/raymcfarlane/def885cc6cbad5e788c22565dbb88611)
+- Gist link (https://gist.github.com/raymcfarlane/def885cc6cbad5e788c22565dbb88611)
 
 A **regex**, which is short for **regular expression**, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input. 
 
