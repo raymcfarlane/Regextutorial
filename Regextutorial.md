@@ -6,9 +6,9 @@ A **regex**, which is short for **regular expression**, is a sequence of charact
 ## Summary
 
 I will be explaining a regular expression, **"Matching a username"**
-
+```
 /^[a-z0-9_-]{3,16}$/
-
+```
 ## Table of Contents
 
 - [Anchors](#anchors)
